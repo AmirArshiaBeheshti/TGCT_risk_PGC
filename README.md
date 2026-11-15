@@ -1,4 +1,4 @@
-# TGCT inherited-risk programme: fetal origin and tumour retention — analysis code
+# Analysis code for: Single cell and bulk transcriptomic analysis links testicular germ cell tumour risk genes to the fetal primordial germ cell state
 
 Run order (each step reads the previous step's results):
 
